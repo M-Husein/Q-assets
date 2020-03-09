@@ -1,0 +1,28 @@
+/* FOR Tablet Landscape */
+@media (max-width: 1199px) and (min-width: 992px){
+	
+	
+	
+}/* END FOR Tablet Landscape */
+
+/* FOR Tablet Portrait */
+@media (max-width:991px) and (min-width:768px){
+	
+	
+	
+}/* END FOR Tablet Portrait */
+
+/* FOR Smartphone Landscape & Portrait */
+@media (max-width:767px){
+	
+	
+	
+}/* END Smartphone Landscape & Portrait */
+
+
+/* FOR Smartphone Portrait Only */
+@media screen and (max-width:480px){
+	
+	
+	
+}/* END FOR Smartphone Potrait Only */
