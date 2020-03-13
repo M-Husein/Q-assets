@@ -1,4 +1,4 @@
-	// Check if string is date format
+// Check if string is date format
 const isDate = date => {
     try{
       new Date(date).toISOString();
