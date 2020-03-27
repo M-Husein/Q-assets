@@ -1,0 +1,10 @@
+/* From - https://developer.mozilla.org/en-US/docs/Web/CSS/resize */
+.resize-native{
+    background: linear-gradient(135deg,#0ff 0,#0ff 94%,#fff 95%);/* use */
+    overflow: auto;/* use */
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
