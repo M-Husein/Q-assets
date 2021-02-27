@@ -1,0 +1,14 @@
+.dropdown-menu.dd-animate{
+  display: block !important;
+  transform-origin: top;
+  animation-fill-mode: forwards;
+  transform: scaleY(0);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity linear .2s, transform ease-in-out .15s;
+}
+.dropdown-menu.dd-animate.show{
+  opacity: 1;
+  pointer-events: auto;
+  transform: scaleY(1);
+}
